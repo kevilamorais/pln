@@ -1,0 +1,45 @@
+@book{saraviaetal,
+  author = {Saravia, Elvis  and  Liu, Hsien-Chi Toby  and Huang, Yen-Hao  and  Wu, Junlin  and  Chen, Yi-Shin},
+  title = {Contextualized Affect Representations for Emotion Recognition},
+  booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
+  year = {2018},
+  address = {Brussels, Belgium},
+  publisher = {Association for Computational Linguistics},
+  url = {https://www.aclweb.org/anthology/D18-1404},
+  doi = {10.18653/v1/D18-1404},
+  pages = {3687--3697}
+}
+
+@article{8805181,
+  author={Khalil, Ruhul Amin and Jones, Edward and Babar, Mohammad Inayatullah and Jan, Tariqullah and Zafar, Mohammad Haseeb and Alhussain, Thamer},
+  journal={IEEE Access}, 
+  title={Speech Emotion Recognition Using Deep Learning Techniques: A Review}, 
+  year={2019},
+  volume={7},
+  number={},
+  pages={117327-117345},
+  doi={10.1109/ACCESS.2019.2936124}}
+
+@article{8295234,
+  author={Colnerič, Niko and Demšar, Janez},
+  journal={IEEE Transactions on Affective Computing}, 
+  title={Emotion Recognition on Twitter: Comparative Study and Training a Unison Model}, 
+  year={2020},
+  volume={11},
+  number={3},
+  pages={433-446},
+  doi={10.1109/TAFFC.2018.2807817}}
+
+  
+@article{ZHANG2020103,
+title = {Emotion recognition using multi-modal data and machine learning techniques: A tutorial and review},
+journal = {Information Fusion},
+volume = {59},
+pages = {103-126},
+year = {2020},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2020.01.011},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253519302532},
+author = {Jianhua Zhang and Zhong Yin and Peng Chen and Stefano Nichele},
+keywords = {Emotion recognition, Affective computing, Physiological signals, Feature dimensionality reduction, Data fusion, Machine learning, Deep learning}
+}
